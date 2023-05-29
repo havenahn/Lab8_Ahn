@@ -4,3 +4,5 @@
 2. no i would use jest because end to end is not for a specific function and its output
 3. no, i would use puppeteer because it is user input  and it has a lot of random elements, and it requires multiple functions to work together
 4. yes, because it is 1 function that does it, doesn't require user input randomization, etc.
+
+screenshots are in the screenshots folder
